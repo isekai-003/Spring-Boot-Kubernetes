@@ -1,1 +1,1 @@
-image: dockerImage
+image: shamshuddin03/vpro:replaceImageTag
