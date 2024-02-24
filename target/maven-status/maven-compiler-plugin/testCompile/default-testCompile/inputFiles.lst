@@ -1,0 +1,5 @@
+/opt/build/workspace/spring-boot@2/src/test/java/com/visualpathit/account/controllerTest/UserControllerTest.java
+/opt/build/workspace/spring-boot@2/src/test/java/com/visualpathit/account/modelTest/RoleTest.java
+/opt/build/workspace/spring-boot@2/src/test/java/com/visualpathit/account/setup/StandaloneMvcTestViewResolver.java
+/opt/build/workspace/spring-boot@2/src/test/java/com/visualpathit/account/modelTest/UserTest.java
+/opt/build/workspace/spring-boot@2/src/test/java/com/visualpathit/account/controllerTest/SampleTest.java
